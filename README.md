@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @albertjseo
+- 👀 I’m interested in exploring computational biology
+- 🎓 I’m currently enrolled in a M.Eng Bioengineering program
