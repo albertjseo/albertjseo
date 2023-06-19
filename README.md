@@ -6,7 +6,6 @@ I'm a research scientist/engineer who is interested in exploring computational b
 🎓 M.Eng Bioengineering (2022 - TBD)
 
 ##
-
 ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=albertjseo&show_icons=true&theme=radical) 
 
 
