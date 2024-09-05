@@ -1,6 +1,6 @@
 # Hi 👋, I'm Albert J. Seo
 
-I'm a research scientist/engineer who is interested in exploring computer science and data analytics. I have 4+ years of experience working in a data-driven setting; these experiences have helped me develop a passionate, mature, and responsible approach for data in a technology advancing setting.
+I'm a data analyst/scientist who is interested in exploring computer science and data analytics. I have 4+ years of experience working in a data-driven setting; these experiences have helped me develop a passionate, mature, and responsible approach for data in a technology advancing setting.
 ##
 🎓 M.Eng Bioengineering (2022 - TBD)
 ##
