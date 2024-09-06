@@ -4,7 +4,7 @@ I'm a data analyst/scientist who is interested in exploring computer science and
 ##
 🎓 M.Eng Bioengineering (2022 - TBD)
 ##
-<img align = "left" width="47%" src="https://github-readme-stats.vercel.app/api?username=albertjseo&show_icons=true&theme=radical" />
+<img align = "left" width="47%" src="https://github-readme-stats.vercel.app/api?username=albertjseo&show_icons=true&theme=github_dark" />
 
 <img align = "left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertjseo&layout=compact&theme=github_dark" />
 
