@@ -8,4 +8,6 @@ I'm a data analyst/scientist who is interested in exploring computer science and
 
 <img align = "left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertjseo&layout=compact&theme=github_dark" />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 ##
