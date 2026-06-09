@@ -24,10 +24,10 @@ Data analyst and bioinformatician with a passion for data-driven storytelling an
 
 ## Connect with Me
 <div>
-  <a href="https://www.linkedin.com/in/albertjseo" target="_blank">
+  <a href="https://www.linkedin.com/in/albertjseo" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://albertjseo.com" target="_blank">
+  <a href="https://albertjseo.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Website-4A90E2?style=for-the-badge&logo=globe&logoColor=white" alt="Website" />
   </a>
 </div>
