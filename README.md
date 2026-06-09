@@ -5,7 +5,9 @@ Data analyst and bioinformatician with a passion for data-driven storytelling an
 ---
 
 <p>
-  <img alt="Skills icons" src="https://skillicons.dev/icons?i=python,mysql,linux,bash,matlab,js,html,css,git,github,flask,react" />
+    <a href="https://github.com/albertjseo">
+        <img alt="Skills icons" src="https://skillicons.dev/icons?i=python,mysql,linux,bash,matlab,js,html,css,git,github,flask,react" />
+    </a>
 </p>
 
 ---
